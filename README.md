@@ -1,7 +1,7 @@
-👋 Hi, I’m @dev-ton located in Germany.\
+👋 Hi, I’m @dev-ton, UX Engineer located in Germany.\
 👀 I’m interested in modern UI, sophisticated UX, JAMstack architecture.\
-🌱 I’m currently learning React, GSAP, GraphQL, GatsbyJS and more.\
-💞️ I’m looking to collaborate on UIs - if I can use my CSS skills on any project, that would be cool.\
+🌱 I’m proficient in React, Vue, ES6, CSS, HTML.
+💞️ I’d be happy to collaborate and help to build some mind-blowing frontend.\
 📫 How to reach me : tony@stellarcode.io
 
 <!---
