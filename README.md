@@ -1,6 +1,4 @@
-👋 Hi, I’m @dev-ton, UX Engineer located in Germany.\
-🌱 I’m proficient in Vue, React, ES6, all sorts of CSS, Python, Astro, Node...\
-📚 Currently learning Rust.\
+👋 Hi, I’m @dev-ton, Frontend Dev located in Germany
 
 <!---
 dev-ton/dev-ton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
